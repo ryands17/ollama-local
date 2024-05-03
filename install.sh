@@ -46,5 +46,5 @@ check_endpoint "http://127.0.0.1:$webuiport"
 
 # Open ollama-webui in your favourite browser
 echo "Opening ollama web-ui"
-open "http://localhost:$webuiport"
+open "http://127.0.0.1:$webuiport"
 
