@@ -19,3 +19,4 @@ This is a simple starter to run Ollama LLM models on your local machine. I am cu
 - You can interact with the docker compose file via the `dd` script. For e.g. stopping the container would be `./dd down`
 - Installing Ollama models is also easy as shown [here](https://ollama.com/library/deepseek-coder:33b). For e.g. using the CLI, you can do `ollama run deepseek-coder:33b` to install the deepseek model
 
+**Note**: This setup is designed for Mac systems, so please tweak it accordingly to your OS.
